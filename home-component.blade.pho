@@ -1,0 +1,326 @@
+<main id="main">
+		<div class="container">
+		
+
+			<!--MAIN SLIDE-->
+			<div class="wrap-main-slide">
+				<div class="slide-carousel owl-carousel style-nav-1" data-items="1" data-loop="1" data-nav="true" data-dots="false">
+					<div class="item-slide">
+						<img src="assets/images/main-slider-1-1.jpg" alt="" class="img-slide">
+						<div class="slide-info slide-1">
+							<h2 class="f-title">OFFRE EXCLUSSIVE <b> </b></h2>
+				<span class="subtitle">EN QUELQUES CLICS ET GRATUITEMENT</span>
+							<p class="sale-info"> <span class="price"></span></p>
+							<a href="#" class="btn-link"> réserver maintenant </a>
+							
+						</div>
+					</div>
+					<div class="item-slide">
+						<img src="assets/images/main-slider-1-2.jpg" alt="" class="img-slide">
+						<div class="slide-info slide-2">
+							<h2 class="f-title">JUSQU'A 10% DE REMISE</h2>
+						
+							
+							<h4 class="s-title">Aller simple</h4>
+							<p class="s-subtitle">Consulter nos offres </p>
+						</div>
+					</div>
+					<div class="item-slide">
+						<img src="assets/images/main-slider-1-3.jpg" alt="" class="img-slide">
+						<div class="slide-info slide-3">
+							<h2 class="f-title">LOUER LA VOITURE <b> dont vous revez</b></h2>
+							<span class="f-subtitle"> tarif mensuel fixe + tout inclus + sans engagement</span>
+							<p class="sale-info"> <b class="price"></b></p>
+							<a href="#" class="btn-link"> réserver maintenant </a>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<!--BANNER-->
+			<div class="wrap-banner style-twin-default">
+				<div class="banner-item">
+					<a href="#" class="link-banner banner-effect-1">
+						<figure><img src="assets/images/home-1-banner-1.jpg" alt="" width="580" height="190"></figure>
+					</a>
+				</div>
+				<div class="banner-item">
+					<a href="#" class="link-banner banner-effect-1">
+						<figure><img src="assets/images/home-1-banner-2.jpg" alt="" width="580" height="190"></figure>
+					</a>
+				</div>
+			</div>
+
+			<!--On Sale-->
+			<div class="wrap-show-advance-info-box style-1 has-countdown">
+				<h3 class="title-box"> voitures disponibles </h3>
+				
+				<div class="wrap-products slide-carousel owl-carousel style-nav-1 equal-container " data-items="5" data-loop="false" data-nav="true" data-dots="false" data-responsive='{"0":{"items":"1"},"480":{"items":"2"},"768":{"items":"3"},"992":{"items":"4"},"1200":{"items":"5"}}'>
+
+					
+
+					<div class="product product-style-2 equal-elem ">
+						<div class="product-thumnail">
+							<a href="detail.html" title="T-Shirt Raw Hem Organic Boro Constrast Denim">
+								<figure><img src="assets/images/products/fashion_08.jpg" width="800" height="800" alt="T-Shirt Raw Hem Organic Boro Constrast Denim"></figure>
+							</a>
+							<div class="group-flash">
+								<span class="flash-item sale-label">disponible</span>
+							</div>
+							
+						</div>
+						<div class="product-info">
+							<a href="#" class="product-name"><span>Fiat 500 ou similaire | Sedan (ECMR)</span></a>
+							<div class="wrap-price"><span class="product-price">$250.00</span></div>
+						</div>
+					</div>
+
+					<div class="product product-style-2 equal-elem ">
+						<div class="product-thumnail">
+							<a href="detail.html" title="T-Shirt Raw Hem Organic Boro Constrast Denim">
+								<figure><img src="assets/images/products/digital_17.jpg" width="800" height="800" alt=""></figure>
+							</a>
+							<div class="group-flash">
+								<span class="flash-item sale-label">disponible</span>
+							</div>
+							
+						</div>
+						<div class="product-info">
+							<a href="#" class="product-name"><span>Toyota Yaris Hybride ou similaire | Sedan (EDAH)</span></a>
+							<div class="wrap-price"><ins><p class="product-price">$168.00</p></ins> <del><p class="product-price">$250.00</p></del></div>
+						</div>
+					</div>
+
+					<div class="product product-style-2 equal-elem ">
+						<div class="product-thumnail">
+							<a href="detail.html" title="T-Shirt Raw Hem Organic Boro Constrast Denim">
+								<figure><img src="assets/images/products/tools_equipment_3.jpg" width="800" height="800" alt=""></figure>
+							</a>
+							<div class="group-flash">
+								<span class="flash-item sale-label">disponible</span>
+							</div>
+							
+						</div>
+						<div class="product-info">
+							<a href="#" class="product-name"><span>Audi A1 Sportback ou similaire | Sedan (CCMR)</span></a>
+							<div class="wrap-price"><span class="product-price">$250.00</span></div>
+						</div>
+					</div>
+
+					<div class="product product-style-2 equal-elem ">
+						<div class="product-thumnail">
+							<a href="detail.html" title="T-Shirt Raw Hem Organic Boro Constrast Denim">
+								<figure><img src="assets/images/products/fashion_05.jpg" width="800" height="800" alt="T-Shirt Raw Hem Organic Boro Constrast Denim"></figure>
+							</a>
+							<div class="group-flash">
+								<span class="flash-item sale-label">disponible</span>
+							</div>
+							
+						</div>
+						<div class="product-info">
+							<a href="#" class="product-name"><span>DS DS3 Crossback E-Tense ou similaire | Sedan (CLAE)</span></a>
+							<div class="wrap-price"><ins><p class="product-price">$168.00</p></ins> <del><p class="product-price">$250.00</p></del></div>
+						</div>
+					</div>
+
+					<div class="product product-style-2 equal-elem ">
+						<div class="product-thumnail">
+							<a href="detail.html" title="T-Shirt Raw Hem Organic Boro Constrast Denim">
+								<figure><img src="assets/images/products/digital_04.jpg" width="800" height="800" alt="T-Shirt Raw Hem Organic Boro Constrast Denim"></figure>
+							</a>
+							<div class="group-flash">
+								<span class="flash-item sale-label">disponible</span>
+							</div>
+							
+						</div>
+						<div class="product-info">
+							<a href="#" class="product-name"><span>Peugeot 3008 ou similaire | Sedan (IDMR)</span></a>
+							<div class="wrap-price"><span class="product-price">$250.00</span></div>
+						</div>
+					</div>
+
+					<div class="product product-style-2 equal-elem ">
+						<div class="product-thumnail">
+							<a href="detail.html" title="T-Shirt Raw Hem Organic Boro Constrast Denim">
+								<figure><img src="assets/images/products/kidtoy_05.jpg" width="800" height="800" alt="T-Shirt Raw Hem Organic Boro Constrast Denim"></figure>
+							</a>
+							<div class="group-flash">
+								<span class="flash-item sale-label">disponible</span>
+							</div>
+							
+						</div>
+						<div class="product-info">
+							<a href="#" class="product-name"><span>VW T-Roc Aut. ou similaire | Sedan (CLAR)</span></a>
+							<div class="wrap-price"><ins><p class="product-price">$168.00</p></ins> <del><p class="product-price">$250.00</p></del></div>
+						</div>
+					</div>
+
+				</div>
+			</div>
+
+			<!--Latest Products-->
+			<div class="wrap-show-advance-info-box style-1">
+				<h3 class="title-box"> nos DERNIERS véhicules</h3>
+				<div class="wrap-top-banner">
+					<a href="#" class="link-banner banner-effect-2">
+						<figure><img src="assets/images/fashion-accesories-banner.jpg" width="1170" height="240" alt=""></figure>
+					</a>
+				</div>
+				<div class="wrap-products">
+					<div class="wrap-product-tab tab-style-1">						
+						<div class="tab-contents">
+							<div class="tab-content-item active" id="digital_1a">
+								<div class="wrap-products slide-carousel owl-carousel style-nav-1 equal-container" data-items="5" data-loop="false" data-nav="true" data-dots="false" data-responsive='{"0":{"items":"1"},"480":{"items":"2"},"768":{"items":"3"},"992":{"items":"4"},"1200":{"items":"5"}}' >
+
+									<div class="product product-style-2 equal-elem ">
+										<div class="product-thumnail">
+											<a href="detail.html" title="T-Shirt Raw Hem Organic Boro Constrast Denim">
+												<figure><img src="assets/images/products/digital_mm.jpg" width="800" height="800" alt="T-Shirt Raw Hem Organic Boro Constrast Denim"></figure>
+											</a>
+											<div class="group-flash">
+												<span class="flash-item new-label">nouveau</span>
+											</div>
+											
+										</div>
+										<div class="product-info">
+											<a href="#" class="product-name"><span>BMW X1 xDrive Aut. ou similaire | SUV (FFAR)</span></a>
+											<div class="wrap-price"><span class="product-price">$250.00</span></div>
+										</div>
+									</div>
+
+									<div class="product product-style-2 equal-elem ">
+										<div class="product-thumnail">
+											<a href="detail.html" title="T-Shirt Raw Hem Organic Boro Constrast Denim">
+												<figure><img src="assets/images/products/digital_kk.jpg" width="800" height="800" alt="T-Shirt Raw Hem Organic Boro Constrast Denim"></figure>
+											</a>
+											<div class="group-flash">
+												<span class="flash-item new-label">nouveau</span>
+											</div>
+											
+										</div>
+										<div class="product-info">
+											<a href="#" class="product-name"><span>Audi A4 Aut. ou similaire | Station wagon (FWAR) </span></a>
+											<div class="wrap-price"><ins><p class="product-price">$168.00</p></ins> <del><p class="product-price">$250.00</p></del></div>
+										</div>
+									</div>
+
+									<div class="product product-style-2 equal-elem ">
+										<div class="product-thumnail">
+											<a href="detail.html" title="T-Shirt Raw Hem Organic Boro Constrast Denim">
+												<figure><img src="assets/images/products/digital_15.jpg" width="800" height="800" alt="T-Shirt Raw Hem Organic Boro Constrast Denim"></figure>
+											</a>
+											<div class="group-flash">
+												<span class="flash-item new-label">nouveau</span>
+												
+											</div>
+											
+										</div>
+										<div class="product-info">
+											<a href="#" class="product-name"><span>BMW Série 5 Aut. ou similaire | Station wagon (LWAR)</span></a>
+											<div class="wrap-price"><ins><p class="product-price">$168.00</p></ins> <del><p class="product-price">$250.00</p></del></div>
+										</div>
+									</div>
+
+									<div class="product product-style-2 equal-elem ">
+										<div class="product-thumnail">
+											<a href="detail.html" title="T-Shirt Raw Hem Organic Boro Constrast Denim">
+												<figure><img src="assets/images/products/digital_01.jpg" width="800" height="800" alt="T-Shirt Raw Hem Organic Boro Constrast Denim"></figure>
+											</a>
+											<div class="group-flash">
+												<span class="flash-item new-label"> nouveau </span>
+											</div>
+											<div class="wrap-btn">
+												<a href="#" class="function-link">quick view</a>
+											</div>
+										</div>
+										<div class="product-info">
+											<a href="#" class="product-name"><span>BMW X5 xDrive ou similaire | SUV (XFAR)</span></a>
+											<div class="wrap-price"><span class="product-price">$250.00</span></div>
+										</div>
+									</div>
+
+									<div class="product product-style-2 equal-elem ">
+										<div class="product-thumnail">
+											<a href="detail.html" title="T-Shirt Raw Hem Organic Boro Constrast Denim">
+												<figure><img src="assets/images/products/digital_21.jpg" width="800" height="800" alt="T-Shirt Raw Hem Organic Boro Constrast Denim"></figure>
+											</a>
+											<div class="group-flash">
+												<span class="flash-item new-label"> nouveau </span>
+											</div>
+											
+										</div>
+										<div class="product-info">
+											<a href="#" class="product-name"><span>Mercedes-Benz S560 L ou similaire | Sedan (XLAN)</span></a>
+											<div class="wrap-price"><span class="product-price">$250.00</span></div>
+										</div>
+									</div>
+
+									<div class="product product-style-2 equal-elem ">
+										<div class="product-thumnail">
+											<a href="detail.html" title="T-Shirt Raw Hem Organic Boro Constrast Denim">
+												<figure><img src="assets/images/products/digital_03.jpg" width="800" height="800" alt="T-Shirt Raw Hem Organic Boro Constrast Denim"></figure>
+											</a>
+											<div class="group-flash">
+												<span class="flash-item new-label">nouveau</span>
+											</div>
+											
+										</div>
+										<div class="product-info">
+											<a href="#" class="product-name"><span>Audi Q5 ou similaire | Sedan (PLAR)</span></a>
+											<div class="wrap-price"><ins><p class="product-price">$168.00</p></ins> <del><p class="product-price">$250.00</p></del></div>
+										</div>
+									</div>
+
+									<div class="product product-style-2 equal-elem ">
+										<div class="product-thumnail">
+											<a href="detail.html" title="T-Shirt Raw Hem Organic Boro Constrast Denim">
+												<figure><img src="assets/images/products/digital_04.jpg" width="800" height="800" alt="T-Shirt Raw Hem Organic Boro Constrast Denim"></figure>
+											</a>
+											<div class="group-flash">
+												<span class="flash-item new-label">nouveau</span>
+											</div>
+											
+										</div>
+										<div class="product-info">
+											<a href="#" class="product-name"><span>BMW X3 xDrive ou similaire | SUV (PFAR)</span></a>
+											<div class="wrap-price"><span class="product-price">$250.00</span></div>
+										</div>
+									</div>
+
+									<div class="product product-style-2 equal-elem ">
+										<div class="product-thumnail">
+											<a href="detail.html" title="T-Shirt Raw Hem Organic Boro Constrast Denim">
+												<figure><img src="assets/images/products/digital_05.jpg" width="800" height="800" alt="T-Shirt Raw Hem Organic Boro Constrast Denim"></figure>
+											</a>
+											<div class="group-flash">
+												<span class="flash-item new-label">nouveau</span>
+											</div>
+											<div class="wrap-btn">
+												<a href="#" class="function-link"></a>
+											</div>
+										</div>
+										<div class="product-info">
+											<a href="#" class="product-name"><span>Peugeot 5008 ou similaire | Multiseater 7 (SVMR)</span></a>
+											<div class="wrap-price"><span class="product-price">$250.00</span></div>
+										</div>
+									</div>
+
+								</div>
+							</div>							
+						</div>
+					</div>
+				</div>
+			</div>
+			<!--Product Categories-->
+			<div class="wrap-show-advance-info-box style-1">
+				<h3 class="title-box"> </h3>
+				<div class="wrap-top-banner">
+					<a href="#" class="link-banner banner-effect-2">
+						<figure><img src="assets/images/digital-electronic-banner.jpg" width="1170" height="240" alt=""></figure>
+					</a>
+				</div>
+
+
+
+
+
